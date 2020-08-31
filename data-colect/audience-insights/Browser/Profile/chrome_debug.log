@@ -1,0 +1,14 @@
+[2516:2526:0723/093618.544117:ERROR:nss_util.cc(283)] After loading Root Certs, loaded==false: NSS error code: -8018
+[2516:2527:0723/093618.642812:WARNING:spdy_session.cc(3365)] Received HEADERS for invalid stream 5
+[2475:2475:0723/093618.937837:INFO:CONSOLE(0)] "Slow network is detected. See https://www.chromestatus.com/feature/5636954674692096 for more details. Fallback font will be used while loading: https://fonts.gstatic.com/s/roboto/v20/KFOmCnqEu92Fr1Mu4mxK.woff2", source: chrome-search://local-ntp/local-ntp.html (0)
+[2475:2475:0723/093654.655547:INFO:CONSOLE(0)] "
+%cEspere! font-family:helvetica; font-size:20px; font-size:50px; font-weight:bold; color:red; -webkit-text-stroke:1px black;", source:  (0)
+[2475:2475:0723/093654.655694:INFO:CONSOLE(0)] "
+%cEste é um recurso de navegador voltado para desenvolvedores. Se alguém disse para você copiar e colar algo aqui para ativar um recurso do Facebook ou "invadir" a conta de outra pessoa, isso é uma fraude e você dará a ele acesso à sua conta. font-family:helvetica; font-size:20px; ", source:  (0)
+[2475:2475:0723/093654.655795:INFO:CONSOLE(0)] "
+%cConsulte https://www.facebook.com/selfxss para obter mais informações. font-family:helvetica; font-size:20px; ", source:  (0)
+[2475:2475:0723/093654.655889:INFO:CONSOLE(0)] "
+%c ", source:  (0)
+[2512:2512:0723/094747.543577:WARNING:x11_util.cc(1520)] X error received: serial 4525, error_code 181 (GLXBadWindow), request_code 155, minor_code 32 (Unknown)
+[2512:2512:0723/094747.543842:WARNING:x11_util.cc(1520)] X error received: serial 4531, error_code 3 (BadWindow), request_code 4, minor_code 0 (Unknown)
+[2475:2475:0723/094748.154942:WARNING:pref_notifier_impl.cc(40)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
