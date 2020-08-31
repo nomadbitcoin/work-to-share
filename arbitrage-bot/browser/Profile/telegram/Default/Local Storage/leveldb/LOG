@@ -1,0 +1,6 @@
+2020/07/10-12:05:48.127 4260 Reusing MANIFEST /home/nomadbitcoin/work-to-share/arbitrage-bot/browser/Profile/telegram/Default/Local Storage/leveldb/MANIFEST-000001
+2020/07/10-12:05:48.127 4260 Recovering log #3
+2020/07/10-12:05:48.128 4260 Reusing old log /home/nomadbitcoin/work-to-share/arbitrage-bot/browser/Profile/telegram/Default/Local Storage/leveldb/000003.log 
+2020/07/10-12:07:50.934 432c Level-0 table #5: started
+2020/07/10-12:07:51.003 432c Level-0 table #5: 174088 bytes OK
+2020/07/10-12:07:51.043 432c Delete type=0 #3

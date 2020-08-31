@@ -1,0 +1,7 @@
+2020/07/09-22:35:45.462 7533 Reusing MANIFEST /home/nomadbitcoin/work-to-share/arbitrage-bot/browser/Profile/telegram/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/MANIFEST-000001
+2020/07/09-22:35:45.463 7533 Recovering log #3
+2020/07/09-22:35:45.549 7533 Reusing old log /home/nomadbitcoin/work-to-share/arbitrage-bot/browser/Profile/telegram/Default/IndexedDB/https_web.telegram.org_0.indexeddb.leveldb/000003.log 
+2020/07/09-22:36:34.758 7875 Level-0 table #5: started
+2020/07/09-22:36:34.842 7875 Level-0 table #5: 88339 bytes OK
+2020/07/09-22:36:34.876 7875 Delete type=0 #3
+2020/07/09-22:36:34.876 7875 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
