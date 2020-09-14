@@ -1,7 +1,7 @@
 *arbitrage-bot/.ipynb_checkpoints*
 *arbitrage-bot/browser*
 
-*bets/futebol-virtual/futebol-virtual/bin*
+*bets/futebol-virtual/.ipynb_checkpoints/*
 *bets/futebol-virtual/bin/*
 
 *data-colect/Browser/*
@@ -10,3 +10,6 @@
 *data-colect/audience-insights/.ipynb_checkpoints*
 *data-colect/audience-insights/Browser/*
 
+*quantum-random-sms/db/*
+
+*.ipynb_checkpoints*
